@@ -1,0 +1,20 @@
+export type VDOTData = {
+  VDOT: number;
+  '800m'?: string;
+  '1500m': string;
+  Mile: string;
+  '3k': string;
+  '1.5-mile'?: string;
+  '2-mile': string;
+  '5k': string;
+  '8k': string;
+  '5-mile': string;
+  '10k': string;
+  '15k': string;
+  '10-mile': string;
+  '20k': string;
+  '1/2 Marathon': string;
+  '25k': string;
+  '30k': string;
+  Marathon: string;
+};
